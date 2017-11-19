@@ -1,0 +1,19 @@
+{"cars":[
+  {
+    "name":"car1",
+    "img":"https://auto.ndtvimg.com/car-images/medium/ferrari/gtc4lusso/ferrari-gtc4lusso.jpg",
+    "manufacturer":"Ferrari",
+    "price":"10 Million Dollars"
+  },
+  {
+    "name":"car2",
+    "img":"https://auto.ndtvimg.com/car-images/medium/ferrari/gtc4lusso/ferrari-gtc4lusso.jpg",
+    "manufacturer":"Merc",
+    "price":"15 Million Dollars"
+  },
+  {
+    "name":"car3",
+    "img":"https://auto.ndtvimg.com/car-images/medium/ferrari/gtc4lusso/ferrari-gtc4lusso.jpg",
+    "manufacturer":"Lambo",
+    "price":"20 Million Dollars"
+  }]}
